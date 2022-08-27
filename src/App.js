@@ -29,6 +29,7 @@ function App() {
 
   const { name, email, contact, address } = state;
   // console.log(data)
+  // Console.log("Da")
 
   useEffect(() => {
     loadUSer();
